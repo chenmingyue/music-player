@@ -1,7 +1,8 @@
 {
   "pages":[
-    "pages/welcome/welcome",
-    "pages/logs/logs"
+    "pages/posts/posts",
+    "pages/welcome/welcome"
+   
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -19,7 +20,7 @@
         "selectedIconPath":"img/index1.png"
       },
       {
-        "pagePath": "pages/logs/logs",
+        "pagePath": "pages/posts/posts",
         "text": "日志",
         "iconPath": "img/index.png",
         "selectedIconPath": "img/index1.png"

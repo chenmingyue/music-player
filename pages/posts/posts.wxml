@@ -1,0 +1,22 @@
+<view>
+  <swiper indicator-dots='true' circular='true' autoplay='true' interval='5000'>  
+     <swiper-item><image src='/img/vr.png' ></image></swiper-item>
+     <swiper-item><image src='/img/wx.png' ></image></swiper-item>
+     <swiper-item><image src='/img/iqiyi.png'></image></swiper-item>
+  </swiper>
+  <view class='post-container'>
+    <view class='post-auto-data'>
+       <image src='/img/avatar/1.png' class='post-auto'></image>
+       <text class='post-date'>nov 25 2018</text>
+    </view>
+    <text class='post-title'>正是虾肥蟹壮时</text>
+    <image src='/img/post/crab.png' class='post-image'></image>
+    <text>稻熟江村蟹正肥，双螯如戟挺青泥，若教纸上翻身看，应见团团董卓脐</text>
+    <view class='post-like'>
+      <image src='../../img/icon/chat.png' class='post-link-image'></image>
+      <text class='post-link-font'>92</text>
+      <image src='../../img/icon/view.png' class='post-link-image'></image>
+      <text class='post-link-font'>65</text>
+    </view>
+  </view>
+</view>
